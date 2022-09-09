@@ -1,4 +1,4 @@
-# doctor-appointment
+# Doctor's appointment
 
 ## Project setup
 ```
